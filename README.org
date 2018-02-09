@@ -1,0 +1,2 @@
+* urlShortener
+  This is a beginner project for hasekll short uri api to practice Monad transformser
